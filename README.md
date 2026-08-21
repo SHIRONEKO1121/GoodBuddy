@@ -17,7 +17,7 @@
 | 專家 ID | 花名 | 版本 | ZIP |
 |---|---|---:|---|
 | `ngo-challenge-advisor` | 卡仔 Kaazai | 1.3.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-challenge-advisor-v1.3.0.zip) |
-| `ngo-self-help-assistant` | 阿助 A-Zhu | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-self-help-assistant.zip) |
+| `ngo-self-help-assistant-intl` | 阿助 A-Zhu | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-self-help-assistant-intl.zip) |
 | `ngo-voice-report` | 阿記 Ah Gei | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-voice-report.zip) |
 | `roster-master` | 阿更 Ahgeng | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/roster-master.zip) |
 
