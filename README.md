@@ -16,10 +16,10 @@
 
 | 職位          | 花名        |    版本 | ZIP                                                                                                   |
 | ----------- | --------- | ----: | ----------------------------------------------------------------------------------------------------- |
-| NGO 共創卡設計助手 | 卡仔 Kaazai | 1.3.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-challenge-advisor-v1.3.0.zip) |
-| NGO AI 方案顧問 | 阿助 A-Zhu  | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-self-help-assistant-intl.zip) |
-| NGO 訪談報告助手  | 阿記 Ah Gei | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-voice-report.zip)             |
-| NGO 排更助手    | 阿更 Ahgeng | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/roster-master.zip)                |
+| 共創卡設計助手 | 卡仔 Kaazai | 1.3.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-challenge-advisor-v1.3.0.zip) |
+| AI 方案顧問 | 阿助 A-Zhu  | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-self-help-assistant-intl.zip) |
+| 訪談報告助手  | 阿記 Ah Gei | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/ngo-voice-report.zip)             |
+| 排更助手    | 阿更 Ahgeng | 1.0.0 | [下載](https://raw.githubusercontent.com/SHIRONEKO1121/GoodBuddy/main/roster-master.zip)                |
 
 ## 對話安裝規則
 
